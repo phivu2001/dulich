@@ -175,5 +175,7 @@ foreach($results as $result)
 <!-- write us -->
 <?php include('includes/write-us.php');?>			
 <!-- //write us -->
+
+<p>hai</p>
 </body>
 </html>
